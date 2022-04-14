@@ -8,5 +8,5 @@
 		MaxWidth="200" MaxHeight="100"
         x:Class="lab_7.Views.AboutWindow"
         Title="AboutWindow">
-	<TextBlock Text="ИП-016 Егошин Алексей" />
+	<TextBlock Text="ИП-012 Санданов Тимур" />
 </Window>
