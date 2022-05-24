@@ -9,5 +9,5 @@
         x:Class="lab_8.Views.AboutWindow"
 		Icon="/Assets/about_logo.ico"
         Title="About">
-	Егошин Алексей ИП-016
+	Санданов Тимур ИП-012
 </Window>
